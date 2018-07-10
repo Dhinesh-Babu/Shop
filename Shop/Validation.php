@@ -97,7 +97,7 @@ else
 
     </div>
 
-    <div class="dropdown">
+  <!-- <div class="dropdown">
 <button onclick="myFunction()" class="dropbtn">Dropdown</button>
   <div id="myDropdown" class="dropdown-content">
 
@@ -105,7 +105,7 @@ else
     <a href="#base">Active</a>
     <a href="">Disabled</a>
   </div>
-</div>
+</div>-->
 
 
 
